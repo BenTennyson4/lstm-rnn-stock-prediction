@@ -57,9 +57,6 @@ Loss Function: 'mean_squared_error'
 
 Output: After running the script, the predicted price for the next day will be printed, and plots of training and validation loss as well as RMSE will be generated.
 
-## License
-This project is licensed under the MIT License – see the LICENSE file for details.
-
 ## Contact
 Maintainer: Ben Tennyson
 
