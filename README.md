@@ -62,4 +62,5 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 ## Contact
 Maintainer: Ben Tennyson
+
 Email: benxy.tennyson@gmail.com
